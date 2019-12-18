@@ -90,7 +90,6 @@
 
 ## <a name="career"></a>Career grow:
 ### <a name="profile"></a>Interviews:   
-✏️[Git Connected](https://gitconnected.com/jesuslombardo)   
 📘[Guide to Freelancing](https://global-uploads.webflow.com/58868bcd2ef4daaf0f072900/5b55e736c0b5f984d2841766_Bonsai-X-Invision-Guide-to-Freelancing.pdf)   
 📰[Build amazing linkedin profile](https://www.freecodecamp.org/news/how-to-build-an-amazing-linkedin-profile-15-proven-tips/)   
 📘[Tech interview handbook](https://github.com/yangshun/tech-interview-handbook)  
