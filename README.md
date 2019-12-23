@@ -99,6 +99,7 @@
 📰[Big O Notation](https://medium.com/@bretcameron/ace-your-coding-interview-by-understanding-big-o-notation-and-write-faster-code-6b60bd498040)  
 📰[Newbie to Software Engineer in 9 months](https://www.freecodecamp.org/news/how-i-went-from-newbie-to-software-engineer-in-9-months-while-working-full-time-460bd8485847/)   
 📘[Javascript Handbook for interviews](https://www.freecodecamp.org/news/the-definitive-javascript-handbook-for-a-developer-interview-44ffc6aeb54e/)   
+📰[Master the Javascript interview](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-closure-b2f0d2152b36)   
 
 ### <a name="roadmaps"></a>Roadmaps:  
 📰[The 2019 Developer Roadmap](https://www.freecodecamp.org/news/2019-web-developer-roadmap/)  
